@@ -10,8 +10,9 @@ Cores:
 */
 
 body{
-	background-color: rgb(100,100,100);
+	background-color: #f7f7f7;
 	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
 }
 
 h1{
@@ -20,16 +21,60 @@ h1{
 }
 
 h2{
-	color: blue;
+	color: #E07A5F;
 	font-size: 30px;
 	font-family: 'Alegreya Sans SC', sans-serif;
 }
 h3{
-
+	color: #122C34;
 }
 
-/* CLASSES*/
+/* ID*/
 
 #titulo{
+	color: #000;
+	background-size: cover;
+	padding: 50px;
+
+	background-image: url("add/sky.jpg");
 	
+
+}
+#jose{
+	display: block;
+	margin: auto;
+	width: 240px;
+	height: 320px;
+}
+#bot{
+	background-color: #3D405B;
+	color: #fff;
+	padding: 5px;
+
+}
+/*CLASS*/
+#foto{
+	padding: 2px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 2px gray;
+	display: block;
+	margin: auto;
+}
+#cejw{
+	padding: 2px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 2px gray;
+	display: block;
+	margin: auto;
+	width: 200px;
+	height: 130px;
+}
+#decolar{
+	padding: 2px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 2px gray;
+	display: block;
+	margin: 5px;
+	width: 200px;
+	height: 160px;
 }
