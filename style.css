@@ -52,7 +52,7 @@ h3{
 	padding: 5px;
 
 }
-/*CLASS*/
+
 #foto{
 	padding: 2px;
 	border-radius: 4px;
@@ -77,4 +77,10 @@ h3{
 	margin: 5px;
 	width: 200px;
 	height: 160px;
+}
+#python{
+	padding: 2px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 2px gray;
+	margin: 5px;
 }
